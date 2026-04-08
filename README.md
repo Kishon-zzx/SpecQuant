@@ -1,6 +1,18 @@
+<div align="center">
+
 # [AAAI'26] SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization
 
-[Zhixiong Zhao](https://kishon-zzx.github.io/)*, Fangxin Liu*, Junjie Wang, Chenyang Guan, Zongwu Wang, Li Jiang, and Haibing Guan
+[Zhixiong Zhao](https://kishon-zzx.github.io/)\*, Fangxin Liu\*, Junjie Wang, Chenyang Guan, Zongwu Wang, Li Jiang, and Haibing Guan
+
+<br>
+
+<a href="https://arxiv.org/abs/2511.11663" target="_blank">
+<img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+
+<a href="https://github.com/Kishon-zzx/SpecQuant" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-black" alt="Code GitHub"></a>
+
+</div>
 
 ---
 
